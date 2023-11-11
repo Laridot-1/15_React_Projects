@@ -1,2 +1,2 @@
-# 15_React_Projects
+## 15_React_Projects
 Attempting John Smilga's React projects...
